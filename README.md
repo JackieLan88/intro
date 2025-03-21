@@ -1,6 +1,7 @@
 # Intro to ourselves
+<div>
 ![Google Developer Groups on Campus at NEIU](../images/logoGDGC.png)
-
+</div>
 Hello Everyone!🎉 
 
 The main focus of this repository is to introduce ourselves with our fellow peers and collegues while puting into practice our github and git skills. In a txt file please type and fill out:
