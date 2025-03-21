@@ -11,4 +11,6 @@ The main focus of this repository is to introduce ourselves with our fellow peer
 ⚡ Fun fact: ....  
 🎶 Hobbies: ...  
 
-Than save the file as "your_name.md".
+When filling each line, make sure to leave 2 blankspaces at the end so your text is displayed with line jumps.  
+
+Than save the file as "your_name.md". For more information about README files, click [here](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)
