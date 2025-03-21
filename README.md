@@ -1,6 +1,6 @@
 # Intro to ourselves
 
-![Google Developer Groups on Campus at NEIU](../images/GDG_NEIU_Square_Logo.jpg)
+![Google Developer Groups on Campus at NEIU](./images/logoGDGC.png)
 
 Hello Everyone!🎉 
 
